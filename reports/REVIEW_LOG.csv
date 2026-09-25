@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0326.jpg,Xe ở xa,added,AI bỏ sót vì chỉ thấy đèn
+1,frame_0331.jpg,Box chồng lên nhau,deleted,Không gán ánh phản chiếu đèn xe
+1,frame_0270.jpg,Box lệch không bám sát xe,edited,Box AI không ôm sát thân xe/gương/đèn
